@@ -1,0 +1,8 @@
+{
+  "username_placeholder": "Username",
+  "password_placeholder": "Password",
+  "password_input_id": "password",
+  "password_input_type": "password",
+  "login_button": "Login",
+  "login_error_message": "Invalid username or password."
+}

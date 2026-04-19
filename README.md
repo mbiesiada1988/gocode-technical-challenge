@@ -113,14 +113,14 @@ Default test execution settings can be defined in a configuration file:
 | `browser`      | One of:<br/>`chromium`, `webkit`, `firefox` |
 | `environments` | Dictionary of environment names and their corresponding URLs |
 
-**NOTE:** CLI options override configuration file values.
+⚠️**NOTE:** CLI options override configuration file values.
 
 ---
 
 ## 5. Test Description
 
 - `tests/test_e2e_login.py` – full login functionality tests  
-  **NOTE:** The first test in this file is expected to fail due to insecure HTTP usage and exposed credentials on the page  
+  ⚠️**NOTE:** The first test in this file is expected to fail due to insecure HTTP usage and exposed credentials on the page  
 
 - `tests/test_e2e_purchase.py` – placeholder test (framework structure demonstration)  
 
@@ -133,7 +133,7 @@ Default test execution settings can be defined in a configuration file:
 - `tests/test_func_products.py` – placeholder test  
 
 - `tests/test_smoke_menu.py` – smoke tests for all pages  
-  **NOTE:** The last test in this file is expected to fail due to a console error on the "About" page  
+   ⚠️**NOTE:** The last test in this file is expected to fail due to a console error on the "About" page  
 
 
 ---

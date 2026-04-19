@@ -113,7 +113,7 @@ Default test execution settings can be defined in a configuration file:
 | `browser`      | One of:<br/>`chromium`, `webkit`, `firefox` |
 | `environments` | Dictionary of environment names and their corresponding URLs |
 
-⚠️**NOTE:** CLI options override configuration file values.
+**NOTE:** CLI options override configuration file values.
 
 ---
 

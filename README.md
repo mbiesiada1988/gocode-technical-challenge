@@ -191,5 +191,3 @@ The project prioritizes:
 - Readability and clarity
 - Real-world usability (CLI + config support)
 - Easy onboarding for new contributors
-
-It is intentionally kept lightweight while still demonstrating good testing practices.

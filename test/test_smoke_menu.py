@@ -9,6 +9,7 @@ menu = Menu()
 
 
 class TestMenu:
+  # last test will fail because of intentionally added error visible in developers console
   @pytest.mark.parametrize('menu_item', menu.get_unlogged_user_menu_items)
   def test_menu(self, page: Page, menu_item: str):
     dev = {'type': '', 'msg': ''}

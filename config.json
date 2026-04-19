@@ -3,7 +3,7 @@
   "browser": "chromium",
   "environments": {
     "local": "http://localhost:4000/fashionhub/",
-    "stage": "https://staging-env/fashionhub/",
+    "staging": "https://staging-env/fashionhub/",
     "prod": "https://pocketaces2.github.io/fashionhub/"
   }
 }

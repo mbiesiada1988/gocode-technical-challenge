@@ -1,0 +1,44 @@
+{
+  "home": {
+    "url": "",
+    "title": "Home - FashionHub",
+    "menu_button": "Home",
+    "header": "Welcome to FashionHub",
+    "access": "both"
+  },
+  "account": {
+    "url": "login.html",
+    "title": "Home",
+    "menu_button": "Account",
+    "header": "Login to FashionHub",
+    "access": "unlogged"
+  },
+  "products": {
+    "url": "products.html",
+    "title": "Products - FashionHub",
+    "menu_button": "Clothing",
+    "header": "FashionHub",
+    "access": "both"
+  },
+  "cart": {
+    "url": "cart.html",
+    "title": "Shopping Cart - FashionHub",
+    "menu_button": "Shopping bag",
+    "header": "Your Shopping Cart",
+    "access": "both"
+  },
+  "about": {
+    "url": "about.html",
+    "title": "About Us - FashionHub",
+    "menu_button": "About",
+    "header": "About FashionHub",
+    "access": "both"
+  },
+  "user": {
+    "url": "account.html",
+    "title": "My Account - FashionHub",
+    "menu_button": "Account",
+    "header": "Welcome, ",
+    "access": "logged"
+  }
+}
